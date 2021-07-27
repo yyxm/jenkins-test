@@ -12,6 +12,6 @@ public class TestController {
 
     @RequestMapping("/test")
     public String test(){
-        return "test git hub webhook!!!!!!!!! last!One";
+        return "test git hub webhook!!!!!!!!! last!Two";
     }
 }
